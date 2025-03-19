@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseurl: https://moychen.github.io/moyblog/
 languageCode: en-us
 title: 等风来
 copyright: Example Person
@@ -201,7 +201,7 @@ menu:
           url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
-              
+
 related:
     includeNewer: true
     threshold: 60
