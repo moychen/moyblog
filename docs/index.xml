@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>等风来&#39;s blog</title>
-        <link>https://example.com/</link>
+        <link>https://moychen.github.io/moyblog/</link>
         <description>Recent content on 等风来&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://moychen.github.io/moyblog/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
-        <link>https://example.com/p/markdown-syntax-guide/</link>
+        <link>https://moychen.github.io/moyblog/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://example.com/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://moychen.github.io/moyblog/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://moychen.github.io/moyblog/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -237,16 +237,16 @@
         </item>
         <item>
         <title>上交所证券代码段分配指南</title>
-        <link>https://example.com/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/</link>
+        <link>https://moychen.github.io/moyblog/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/</link>
         <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/</guid>
+        <guid>https://moychen.github.io/moyblog/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/</guid>
         <description>&lt;p&gt;&lt;strong&gt;一、证券代码定义及编码原则&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;证券代码是指上海证券交易所（以下简称本所）用于证券交易及非交易业务的数字编码。本所证券代码采用6位阿拉伯数字编码，取值范围为000000-999999。6位代码的前3位为类别标识区，其中第一位为类别标识，第二位至第三位为业务标识，6位代码的后3位为顺序编码区：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.com/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://moychen.github.io/moyblog/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5.png&#34;
 	width=&#34;790&#34;
 	height=&#34;149&#34;
-	srcset=&#34;https://example.com/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5_hu_bf693fc386a6b03b.png 480w, https://example.com/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5_hu_429b553c478d7920.png 1024w&#34;
+	srcset=&#34;https://moychen.github.io/moyblog/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5_hu_bf693fc386a6b03b.png 480w, https://moychen.github.io/moyblog/p/%E4%B8%8A%E4%BA%A4%E6%89%80%E8%AF%81%E5%88%B8%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%88%86%E9%85%8D%E6%8C%87%E5%8D%97/%E4%BB%A3%E7%A0%81%E6%AE%B5_hu_429b553c478d7920.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1897,18 +1897,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://moychen.github.io/moyblog/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://moychen.github.io/moyblog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Rich Content</title>
-        <link>https://example.com/p/rich-content/</link>
+        <link>https://moychen.github.io/moyblog/p/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/rich-content/</guid>
+        <guid>https://moychen.github.io/moyblog/p/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
@@ -1969,11 +1969,11 @@
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>https://example.com/p/placeholder-text/</link>
+        <link>https://moychen.github.io/moyblog/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/placeholder-text/</guid>
-        <description>&lt;img src="https://example.com/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://moychen.github.io/moyblog/p/placeholder-text/</guid>
+        <description>&lt;img src="https://moychen.github.io/moyblog/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -2000,10 +2000,10 @@
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>https://example.com/p/math-typesetting/</link>
+        <link>https://moychen.github.io/moyblog/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/math-typesetting/</guid>
+        <guid>https://moychen.github.io/moyblog/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -2040,11 +2040,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>https://example.com/p/emoji-support/</link>
+        <link>https://moychen.github.io/moyblog/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/emoji-support/</guid>
-        <description>&lt;img src="https://example.com/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://moychen.github.io/moyblog/p/emoji-support/</guid>
+        <description>&lt;img src="https://moychen.github.io/moyblog/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -2071,10 +2071,10 @@ $$</description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://moychen.github.io/moyblog/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://moychen.github.io/moyblog/about/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -2099,10 +2099,10 @@ $$</description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://example.com/links/</link>
+        <link>https://moychen.github.io/moyblog/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
+        <guid>https://moychen.github.io/moyblog/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -2134,10 +2134,10 @@ $$</description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://moychen.github.io/moyblog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://moychen.github.io/moyblog/search/</guid>
         <description></description>
         </item>
         

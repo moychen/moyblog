@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 等风来&#39;s blog</title>
-        <link>https://example.com/tags/</link>
+        <link>https://moychen.github.io/moyblog/tags/</link>
         <description>Recent content in Tags on 等风来&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://moychen.github.io/moyblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>股票</title>
-        <link>https://example.com/tags/%E8%82%A1%E7%A5%A8/</link>
+        <link>https://moychen.github.io/moyblog/tags/%E8%82%A1%E7%A5%A8/</link>
         <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/%E8%82%A1%E7%A5%A8/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/%E8%82%A1%E7%A5%A8/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>https://example.com/tags/css/</link>
+        <link>https://moychen.github.io/moyblog/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/css/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://example.com/tags/html/</link>
+        <link>https://moychen.github.io/moyblog/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/html/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://example.com/tags/markdown/</link>
+        <link>https://moychen.github.io/moyblog/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/markdown/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://example.com/tags/themes/</link>
+        <link>https://moychen.github.io/moyblog/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/themes/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://example.com/tags/privacy/</link>
+        <link>https://moychen.github.io/moyblog/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/privacy/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://example.com/tags/shortcodes/</link>
+        <link>https://moychen.github.io/moyblog/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/shortcodes/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://example.com/tags/tag-with-whitespaces/</link>
+        <link>https://moychen.github.io/moyblog/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/tag-with-whitespaces/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://example.com/tags/text/</link>
+        <link>https://moychen.github.io/moyblog/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/text/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://example.com/tags/emoji/</link>
+        <link>https://moychen.github.io/moyblog/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/emoji/</guid>
+        <guid>https://moychen.github.io/moyblog/tags/emoji/</guid>
         <description></description>
         </item>
         
